@@ -5,6 +5,7 @@ def call() {
         docker version
         dotnet --list-sdks
         dotnet --list-runtimes
+        echo "hello"
       '''
     }
 }
